@@ -1,0 +1,6 @@
+Usage:
+
+python minconflicts.py <input_file> <output_file>
+
+
+python dfsb.py <input_file> <output_file> <mode_flag>
